@@ -23,15 +23,8 @@ The dashboard focuses on **sales, profit, categories, customers, regions, and ti
 
 ## 📊 Dashboard Pages & Analysis
 
-### 1️⃣ Business Overview Dashboard
-- High-level KPIs:
-  - Total Sales  
-  - Total Profit  
-  - Total Orders  
-  - Profit Margin  
-- Quick snapshot of overall business health
-- Helps management understand performance at a glance
- 
+### 1️⃣Home 
+ **Flipkart-Make Your Business Profitable**
 ## 🏠 Home Page
 ![Home Page](Flipkart_Git/Home_Page_SS.png)
 
